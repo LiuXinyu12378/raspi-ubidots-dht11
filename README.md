@@ -1,6 +1,10 @@
 # raspi-ubidots-dht11
 
 需要先安装ubidots库
+
+
+     ![Image text]（raspi-ubidots-dht11/wlw.jpg）
+    
  
  sudo pip3 install ubidots
  
