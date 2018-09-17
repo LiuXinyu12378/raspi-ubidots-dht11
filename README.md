@@ -3,7 +3,7 @@
 需要先安装ubidots库
 
 
-     ![Image text]（raspi-ubidots-dht11/wlw.jpg）
+     ![Image text]（https://github.com/LiuXinyu12378/raspi-ubidots-dht11/blob/master/wlw.jpg）
     
  
  sudo pip3 install ubidots
