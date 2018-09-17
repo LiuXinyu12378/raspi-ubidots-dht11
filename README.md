@@ -2,7 +2,7 @@
 
 需要先安装ubidots库
 
-![Image text]（https://raw.githubusercontent.com/LiuXinyu12378/raspi-ubidots-dht11/master/wlw.jpg）
+![Image text]（https://raw.githubusercontent.com/LiuXinyu12378/raspi-ubidots-dht11/master/wlw.jpg ）
 ![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
  
  sudo pip3 install ubidots
